@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-
-
 from collections import defaultdict
 from PIL import Image
 import numpy as np
